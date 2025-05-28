@@ -1,4 +1,4 @@
-<H1>🖥️ MY_Paint 🖥️</H1>
+<H1>🖥️ My_Paint 🖥️</H1>
 My_Paint is the first graphical project of the 2nd semester.
 Project in group with Stanislas.M
 
